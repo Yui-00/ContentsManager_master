@@ -1,0 +1,30 @@
+PODS:
+  - Cosmos (23.0.0)
+  - Realm (10.7.6):
+    - Realm/Headers (= 10.7.6)
+  - Realm/Headers (10.7.6)
+  - RealmSwift (10.7.6):
+    - Realm (= 10.7.6)
+  - XLPagerTabStrip (9.0.0)
+
+DEPENDENCIES:
+  - Cosmos
+  - RealmSwift
+  - XLPagerTabStrip
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - Realm
+    - RealmSwift
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  Realm: ed860452717c8db8f4bf832b6807f7f2ce708839
+  RealmSwift: e31c4ddbcc42ac879313d656b86f9ca539f6f4f4
+  XLPagerTabStrip: 61c57fd61f611ee5f01ff1495ad6fbee8bf496c5
+
+PODFILE CHECKSUM: 1b0de665eda6050f84a632ea912db163a7ec52e5
+
+COCOAPODS: 1.10.1
